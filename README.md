@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saeger
 - 👀 I’m interested in economic development and financial analysis.
-- 🌱 I’m currently learning Python, Tableau, and Javascript. 
+- 🌱 I primarily work with Python, Tableau, and Javascript. 
 - 💞️ I’m looking to collaborate on research projects regarding trade relations, economic forcasting, and fiscal & monetary policy.
 - 📫 I can be reached via email: Saegergodson@yahoo.com
 - linkedIn: https://www.linkedin.com/in/saeger-godson-63529b93/ 
